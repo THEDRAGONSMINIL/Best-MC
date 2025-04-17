@@ -1,0 +1,2 @@
+MIN_RAM=8
+MAX_RAM=12
