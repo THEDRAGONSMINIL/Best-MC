@@ -1,0 +1,28 @@
+{
+  "embed": {
+    "title": ":green_circle: Online",
+    "description": "The Server is currently online.",
+    "color": "green",
+    "timestamp": "now",
+    "footer": {
+      "text": "Server is online"
+    },
+    "thumbnail": {
+      "url": "https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png"
+    },
+    "fields": [
+      {
+        "name": "Players",
+        "value": "[server.onlineCount]/[server.maxPlayers]"
+      },
+      {
+        "name": "Version",
+        "value": "1.21"
+      },
+      {
+        "name": "Server IP",
+        "value": "PLACEHOLDER"
+      }
+    ]
+  }
+}
